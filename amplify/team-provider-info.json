@@ -1,0 +1,35 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gamebasedlearning-dev-34049-authRole",
+      "UnauthRoleArn": "arn:aws:iam::305355236554:role/amplify-gamebasedlearning-dev-34049-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::305355236554:role/amplify-gamebasedlearning-dev-34049-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-gamebasedlearning-dev-34049-deployment",
+      "UnauthRoleName": "amplify-gamebasedlearning-dev-34049-unauthRole",
+      "StackName": "amplify-gamebasedlearning-dev-34049",
+      "StackId": "arn:aws:cloudformation:us-east-1:305355236554:stack/amplify-gamebasedlearning-dev-34049/0454f9c0-52a6-11ed-a204-126d44de5f71",
+      "AmplifyAppId": "d1dyraxf8d6gw4"
+    },
+    "categories": {
+      "function": {
+        "gamebasedlearningf54b5cb6": {
+          "deploymentBucketName": "amplify-gamebasedlearning-dev-34049-deployment",
+          "s3Key": "amplify-builds/gamebasedlearningf54b5cb6-68343667784d2b783350-build.zip"
+        }
+      },
+      "api": {
+        "api84d03152": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1dyraxf8d6gw4",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "gamebasedlearninga728711b": {}
+      }
+    }
+  }
+}
